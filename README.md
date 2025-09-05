@@ -1,5 +1,7 @@
 MERN Authentication
-URL: "lucent-yeot-a29382.netlify.app"
+URL: https://lucent-yeot-a29382.netlify.app/
+
+
 A complete **Authentication System** built with the **MERN stack** (MongoDB, Express, React, Node.js).
 Includes user registration, login, JWT authentication, and protected routes.
 
