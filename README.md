@@ -72,8 +72,8 @@ mern-auth/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone 
-cd mern-auth
+git clone https://github.com/praffulsharma05/MERNAUTH.git
+cd MERNAUTH
 ```
 
 ### 2️⃣ Backend Setup
