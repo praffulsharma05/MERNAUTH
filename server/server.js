@@ -11,7 +11,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 connectDB();
 
-const allowedOrigins = ["mernauth-client.netlify.app"];
+const allowedOrigins = ["https://lucent-yeot-a29382.netlify.app"];
 
 app.use(express.json({ limit: "10mb" })); // ✅ Ensure JSON parsing
 app.use(express.urlencoded({ extended: true })); // ✅ Parse URL-encoded data
