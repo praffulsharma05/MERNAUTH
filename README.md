@@ -72,7 +72,7 @@ mern-auth/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/mern-auth.git
+git clone 
 cd mern-auth
 ```
 
@@ -118,8 +118,11 @@ npm start
 ---
 
 ## 📸 Screenshots
+<img width="1907" height="898" alt="Screenshot 2025-09-05 170111" src="https://github.com/user-attachments/assets/7e4af872-1b98-4a52-9271-ef9fd3840e03" />
 
+<img width="1909" height="916" alt="Screenshot 2025-09-05 170139" src="https://github.com/user-attachments/assets/fb02e3b8-9041-444d-841c-1db4a96642af" />
 
+<img width="1899" height="899" alt="Screenshot 2025-09-05 170155" src="https://github.com/user-attachments/assets/71253054-6d94-4204-894e-f0847ee58ae0" />
 
 ---
 
